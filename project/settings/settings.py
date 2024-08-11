@@ -220,5 +220,5 @@ INTERNAL_IPS = [
     # ...
 ]
 
-SITE_HEADER = os.getenv("SITE_HEADER", "Qjango by Qux")
-SITE_TITLE = os.getenv("SITE_TITLE", "Qjango")
+SITE_HEADER = os.getenv("SITE_HEADER", "QuxDNS by Qux")
+SITE_TITLE = os.getenv("SITE_TITLE", "QuxDNS")

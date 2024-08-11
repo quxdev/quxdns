@@ -5,8 +5,8 @@ from django.views.generic import TemplateView
 
 from project import errors
 
-admin.site.site_header = getattr(settings, "SITE_HEADER", "Qjango by Qux")
-admin.site.site_title = getattr(settings, "SITE_TITLE", "Qjango")
+admin.site.site_header = getattr(settings, "SITE_HEADER", "QuxDNS by Qux")
+admin.site.site_title = getattr(settings, "SITE_TITLE", "QuxDNS")
 
 
 urlpatterns = [
