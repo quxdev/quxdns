@@ -1,0 +1,146 @@
+[
+  {
+    "model": "gizmo.dnstype",
+    "pk": 1,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "A"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 2,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "NS"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 3,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "MD"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 4,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "MF"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 5,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "CNAME"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 6,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "SOA"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 7,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "MB"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 8,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "MG"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 9,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "MR"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 10,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "NULL"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 11,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "WKS"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 12,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "PTR"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 13,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "HINFO"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 14,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "MINFO"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 15,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "MX"
+    }
+  },
+  {
+    "model": "gizmo.dnstype",
+    "pk": 16,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "TXT"
+    }
+  }
+]

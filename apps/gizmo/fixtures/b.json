@@ -1,0 +1,12 @@
+[
+  {
+    "model": "gizmo.provider",
+    "pk": 1,
+    "fields": {
+      "dtm_created": "2024-08-10T00:00Z",
+      "dtm_updated": "2024-08-10T00:00Z",
+      "name": "porkbun",
+      "domain": "porkbun.com"
+    }
+  }
+]
